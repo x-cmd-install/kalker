@@ -1,11 +1,13 @@
 about:
-  description: Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
+  description:
+  |
+    Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
   license: MIT
   homepage: https://kalker.xyz
   head: a756ffc
   archived: false
   latestVersion: v2.2.3
-  collectedAt: 2026-09-04T04:19:38Z
+  collectedAt: 2026-09-04T19:23:34Z
 timeline:
   created: 2020-06-04
   lastCommit: 2026-07-10
@@ -16,7 +18,7 @@ popularity:
   fork: 84
   release: 34
   contributor: 27
-  pullRequest: 9
+  pullRequest: 49
   issue: 124
 language:
   Rust: 418521
@@ -30,7 +32,7 @@ language:
   Java: 534
   Sass: 379
   CSS: 251
-totalLine: 460903
+totalBytes: 460903
 recent:
   last30d:
     since: 2026-08-05
@@ -40,6 +42,14 @@ recent:
     closedIssue: 0
     openIssue: 1
     commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 2
+    commit: 4
   last90d:
     since: 2026-06-06
     release: 1
@@ -64,3 +74,21 @@ recent:
     closedIssue: 1
     openIssue: 7
     commit: 11
+  last720d:
+    since: 2024-09-14
+    release: 3
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 4
+    openIssue: 12
+    commit: 25
+total:
+  release: 34
+  mergedPR: 40
+  openPR: 0
+  closedIssue: 83
+  openIssue: 41
+  commit: 622
+---
+---
+
