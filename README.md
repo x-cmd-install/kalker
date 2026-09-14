@@ -14,11 +14,11 @@ x install kalker
 
 ## Code insight
 
-Total: **20,242** lines of code across **50** files in the top 5 languages.
+Total: **20,249** lines of code across **50** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,926 | 363 | 1,220 | 27 |
+| Rust | 9,933 | 363 | 1,219 | 27 |
 | Json | 9,358 | 0 | 0 | 7 |
 | TypeScript | 184 | 23 | 15 | 2 |
 | Sh | 155 | 49 | 30 | 4 |
@@ -33,27 +33,27 @@ Total: **20,242** lines of code across **50** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.3` (2026-07-10)
-- **Last commit**: 2026-07-10
+- **Last commit**: 2026-09-13
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 1,915 · **Forks**: 85 · **Open issues**: 124 · **Contributors**: 27
+- **Stars**: 1,915 · **Forks**: 85 · **Open issues**: 125 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 40 · **Open PRs**: 1 · **Closed issues**: 83 · **Open issues**: 41 · **Commits**: 622
+- **Releases**: 34 · **Merged PRs**: 41 · **Open PRs**: 1 · **Closed issues**: 84 · **Open issues**: 41 · **Commits**: 624
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 90d | 2026-06-15 | 1 | 2 | 1 | 0 | 4 | 5 |
-| last180d | 2026-03-17 | 1 | 5 | 1 | 0 | 5 | 7 |
-| 360d | 2025-09-18 | 1 | 8 | 1 | 1 | 7 | 11 |
-| last720d | 2024-09-23 | 3 | 9 | 1 | 4 | 11 | 25 |
+| 30d | 2026-08-15 | 0 | 1 | 1 | 0 | 2 | 2 |
+| last60d | 2026-07-16 | 0 | 1 | 1 | 0 | 3 | 2 |
+| 90d | 2026-06-16 | 1 | 3 | 1 | 1 | 4 | 7 |
+| last180d | 2026-03-18 | 1 | 6 | 1 | 1 | 5 | 9 |
+| 360d | 2025-09-19 | 1 | 9 | 1 | 2 | 7 | 13 |
+| last720d | 2024-09-24 | 3 | 10 | 1 | 5 | 11 | 27 |
 
 ## Release assets
 
@@ -62,16 +62,6 @@ Total: **20,242** lines of code across **50** files in the top 5 languages.
 | [kalker-linux](https://github.com/PaddiM8/kalker/releases/download/v2.2.3/kalker-linux) | 4.2 MiB | `other` |
 | [kalker-macOS.zip](https://github.com/PaddiM8/kalker/releases/download/v2.2.3/kalker-macOS.zip) | 1.2 MiB | `native/darwin/x64` |
 | [kalker-windows.msi](https://github.com/PaddiM8/kalker/releases/download/v2.2.3/kalker-windows.msi) | 2.2 MiB | `native/win/x64` |
-
-## Distribution status
-
-Reported by **22** distros on [repology.org](https://repology.org/project/kalker). **7** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.2.3` | ✅ latest |
-| Nix unstable | `2.2.3` | ✅ latest |
-| Alpine edge | `2.2.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -82,4 +72,4 @@ Install metadata for kalker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:40:24Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:59:29Z._
