@@ -4,7 +4,7 @@
 
 Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 
-![kalker](https://repo.x-cmd.io/kalker.svg)
+[![x-cmd/install — kalker Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kalker.svg)](https://x-cmd.com/install/kalker)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install kalker
 
 ## Code insight
 
-Total: **20,249** lines of code across **50** files in the top 5 languages.
+Total: **20,267** lines of code across **50** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,933 | 363 | 1,219 | 27 |
+| Rust | 9,951 | 367 | 1,222 | 27 |
 | Json | 9,358 | 0 | 0 | 7 |
 | TypeScript | 184 | 23 | 15 | 2 |
 | Sh | 155 | 49 | 30 | 4 |
@@ -33,27 +33,27 @@ Total: **20,249** lines of code across **50** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.3` (2026-07-10)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-18
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 1,915 · **Forks**: 85 · **Open issues**: 125 · **Contributors**: 29
+- **Stars**: 1,916 · **Forks**: 84 · **Open issues**: 125 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 41 · **Open PRs**: 1 · **Closed issues**: 84 · **Open issues**: 41 · **Commits**: 624
+- **Releases**: 34 · **Merged PRs**: 42 · **Open PRs**: 0 · **Closed issues**: 85 · **Open issues**: 40 · **Commits**: 625
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 1 | 0 | 2 | 2 |
-| last60d | 2026-07-20 | 0 | 1 | 1 | 0 | 3 | 2 |
-| 90d | 2026-06-20 | 1 | 3 | 1 | 1 | 4 | 7 |
-| last180d | 2026-03-22 | 1 | 5 | 1 | 1 | 4 | 9 |
-| 360d | 2025-09-23 | 1 | 9 | 1 | 2 | 7 | 13 |
-| last720d | 2024-09-28 | 3 | 10 | 1 | 5 | 11 | 27 |
+| 30d | 2026-08-21 | 0 | 2 | 0 | 1 | 1 | 3 |
+| last60d | 2026-07-22 | 0 | 2 | 0 | 1 | 2 | 3 |
+| 90d | 2026-06-22 | 1 | 3 | 0 | 2 | 3 | 7 |
+| last180d | 2026-03-24 | 1 | 6 | 0 | 2 | 3 | 10 |
+| 360d | 2025-09-25 | 1 | 10 | 0 | 3 | 6 | 14 |
+| last720d | 2024-09-30 | 3 | 11 | 0 | 6 | 10 | 28 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for kalker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:46:31Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:50:01Z._

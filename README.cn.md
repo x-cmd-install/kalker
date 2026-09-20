@@ -4,7 +4,7 @@
 
 Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 
-![kalker](https://repo.x-cmd.io/kalker.svg?lang=zh)
+[![x-cmd/install — kalker Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kalker.svg?lang=zh)](https://x-cmd.com/install/kalker)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install kalker
 
 ## 代码洞察
 
-合计: **20,249** 行代码（覆盖前 5 种语言、共 **50** 个文件）。
+合计: **20,267** 行代码（覆盖前 5 种语言、共 **50** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 9,933 | 363 | 1,219 | 27 |
+| Rust | 9,951 | 367 | 1,222 | 27 |
 | Json | 9,358 | 0 | 0 | 7 |
 | TypeScript | 184 | 23 | 15 | 2 |
 | Sh | 155 | 49 | 30 | 4 |
@@ -33,27 +33,27 @@ x install kalker
 ## 发布
 
 - **最新版本**: `v2.2.3` (2026-07-10)
-- **最近提交**: 2026-09-13
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 1,915 · **Fork**: 85 · **开放 issue**: 125 · **贡献者**: 29
+- **Star**: 1,916 · **Fork**: 84 · **开放 issue**: 125 · **贡献者**: 29
 
 ## 累计统计
 
-- **发布数**: 34 · **已合并 PR**: 41 · **开放 PR**: 1 · **已关闭 issue**: 84 · **开放 issue**: 41 · **提交数**: 624
+- **发布数**: 34 · **已合并 PR**: 42 · **开放 PR**: 0 · **已关闭 issue**: 85 · **开放 issue**: 40 · **提交数**: 625
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 1 | 0 | 2 | 2 |
-| last60d | 2026-07-20 | 0 | 1 | 1 | 0 | 3 | 2 |
-| 90d | 2026-06-20 | 1 | 3 | 1 | 1 | 4 | 7 |
-| last180d | 2026-03-22 | 1 | 5 | 1 | 1 | 4 | 9 |
-| 360d | 2025-09-23 | 1 | 9 | 1 | 2 | 7 | 13 |
-| last720d | 2024-09-28 | 3 | 10 | 1 | 5 | 11 | 27 |
+| 30d | 2026-08-21 | 0 | 2 | 0 | 1 | 1 | 3 |
+| last60d | 2026-07-22 | 0 | 2 | 0 | 1 | 2 | 3 |
+| 90d | 2026-06-22 | 1 | 3 | 0 | 2 | 3 | 7 |
+| last180d | 2026-03-24 | 1 | 6 | 0 | 2 | 3 | 10 |
+| 360d | 2025-09-25 | 1 | 10 | 0 | 3 | 6 | 14 |
+| last720d | 2024-09-30 | 3 | 11 | 0 | 6 | 10 | 28 |
 
 ## Release 资产
 
@@ -72,4 +72,4 @@ kalker 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:46:32Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:50:02Z._
