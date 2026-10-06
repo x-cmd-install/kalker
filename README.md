@@ -38,7 +38,7 @@ Total: **20,267** lines of code across **50** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,919 · **Forks**: 85 · **Open issues**: 125 · **Contributors**: 29
+- **Stars**: 1,920 · **Forks**: 84 · **Open issues**: 125 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **20,267** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 2 | 1 | 1 | 1 | 3 |
-| last60d | 2026-08-06 | 0 | 2 | 1 | 1 | 2 | 3 |
-| 90d | 2026-07-07 | 1 | 3 | 1 | 1 | 3 | 3 |
-| last180d | 2026-04-08 | 1 | 5 | 1 | 2 | 4 | 9 |
-| 360d | 2025-10-10 | 1 | 9 | 1 | 3 | 7 | 14 |
-| last720d | 2024-10-15 | 2 | 11 | 1 | 5 | 11 | 23 |
+| 30d | 2026-09-06 | 0 | 2 | 1 | 1 | 1 | 3 |
+| last60d | 2026-08-07 | 0 | 2 | 1 | 1 | 2 | 3 |
+| 90d | 2026-07-08 | 1 | 2 | 1 | 1 | 3 | 3 |
+| last180d | 2026-04-09 | 1 | 5 | 1 | 2 | 4 | 9 |
+| 360d | 2025-10-11 | 1 | 9 | 1 | 3 | 7 | 14 |
+| last720d | 2024-10-16 | 2 | 11 | 1 | 5 | 11 | 23 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for kalker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:31:18Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:14:15Z._
