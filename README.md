@@ -48,12 +48,12 @@ Total: **20,267** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 2 | 1 | 1 | 2 | 3 |
-| 90d | 2026-07-24 | 0 | 2 | 1 | 1 | 3 | 3 |
-| last180d | 2026-04-25 | 1 | 4 | 1 | 2 | 4 | 9 |
-| 360d | 2025-10-27 | 1 | 9 | 1 | 3 | 6 | 14 |
-| last720d | 2024-11-01 | 2 | 11 | 1 | 4 | 11 | 23 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 2 | 1 | 1 | 2 | 3 |
+| 90d | 2026-07-25 | 0 | 2 | 1 | 1 | 3 | 3 |
+| last180d | 2026-04-26 | 1 | 4 | 1 | 2 | 4 | 9 |
+| 360d | 2025-10-28 | 1 | 9 | 1 | 3 | 6 | 14 |
+| last720d | 2024-11-02 | 2 | 11 | 1 | 4 | 11 | 23 |
 
 ## Release assets
 
@@ -62,6 +62,16 @@ Total: **20,267** lines of code across **50** files in the top 5 languages.
 | [kalker-linux](https://github.com/PaddiM8/kalker/releases/download/v2.2.3/kalker-linux) | 4.2 MiB | `other` |
 | [kalker-macOS.zip](https://github.com/PaddiM8/kalker/releases/download/v2.2.3/kalker-macOS.zip) | 1.2 MiB | `native/darwin/x64` |
 | [kalker-windows.msi](https://github.com/PaddiM8/kalker/releases/download/v2.2.3/kalker-windows.msi) | 2.2 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **22** distros on [repology.org](https://repology.org/project/kalker). **8** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.2.3` | ✅ latest |
+| Nix unstable | `2.2.3` | ✅ latest |
+| Alpine edge | `2.2.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -72,4 +82,4 @@ Install metadata for kalker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:29:14Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:29:39Z._
