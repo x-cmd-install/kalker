@@ -1,3 +1,18 @@
+- repo: homebrew
+  srcname: kalker
+  visiblename: kalker
+  version: 2.2.3
+  origversion: null
+  status: newest
+  summary: Full-featured calculator with math syntax
+- repo: gnuguix
+  srcname: kalker
+  binname: kalker
+  visiblename: kalker
+  version: 2.2.3
+  origversion: null
+  status: newest
+  summary: Calculator with user-defined functions, variables and units
 - repo: alpine_3_22
   subrepo: community
   srcname: kalker
@@ -98,13 +113,6 @@
     - ashish@freebsd.org
   categories:
     - math
-- repo: homebrew
-  srcname: kalker
-  visiblename: kalker
-  version: 2.2.3
-  origversion: null
-  status: newest
-  summary: Full-featured calculator with math syntax
 - repo: macports
   srcname: math/kalker
   binname: kalker
