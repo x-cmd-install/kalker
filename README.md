@@ -38,22 +38,22 @@ Total: **20,267** lines of code across **50** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,937 · **Forks**: 85 · **Open issues**: 125 · **Contributors**: 29
+- **Stars**: 1,937 · **Forks**: 85 · **Open issues**: 126 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 42 · **Open PRs**: 4 · **Closed issues**: 85 · **Open issues**: 40 · **Commits**: 625
+- **Releases**: 34 · **Merged PRs**: 42 · **Open PRs**: 4 · **Closed issues**: 85 · **Open issues**: 41 · **Commits**: 625
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 4 | 0 | 1 | 0 |
-| 90d | 2026-08-19 | 0 | 2 | 4 | 1 | 2 | 3 |
-| last180d | 2026-05-21 | 1 | 4 | 4 | 2 | 4 | 8 |
-| 360d | 2025-11-22 | 1 | 8 | 4 | 3 | 6 | 12 |
-| last720d | 2024-11-27 | 2 | 11 | 4 | 4 | 11 | 23 |
+| 30d | 2026-10-20 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 4 | 0 | 2 | 0 |
+| 90d | 2026-08-21 | 0 | 2 | 4 | 1 | 3 | 3 |
+| last180d | 2026-05-23 | 1 | 4 | 4 | 2 | 5 | 8 |
+| 360d | 2025-11-24 | 1 | 8 | 4 | 3 | 7 | 12 |
+| last720d | 2024-11-29 | 2 | 11 | 4 | 4 | 12 | 23 |
 
 ## Release assets
 
@@ -62,6 +62,16 @@ Total: **20,267** lines of code across **50** files in the top 5 languages.
 | [kalker-linux](https://github.com/PaddiM8/kalker/releases/download/v2.2.3/kalker-linux) | 4.2 MiB | `other` |
 | [kalker-macOS.zip](https://github.com/PaddiM8/kalker/releases/download/v2.2.3/kalker-macOS.zip) | 1.2 MiB | `native/darwin/x64` |
 | [kalker-windows.msi](https://github.com/PaddiM8/kalker/releases/download/v2.2.3/kalker-windows.msi) | 2.2 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **23** distros on [repology.org](https://repology.org/project/kalker). **9** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.2.3` | ✅ latest |
+| Nix unstable | `2.2.3` | ✅ latest |
+| Alpine edge | `2.2.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -72,4 +82,4 @@ Install metadata for kalker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:53:56Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:35:52Z._
