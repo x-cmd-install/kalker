@@ -14,11 +14,11 @@ x install kalker
 
 ## Code insight
 
-Total: **20,267** lines of code across **50** files in the top 5 languages.
+Total: **20,270** lines of code across **50** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,951 | 367 | 1,222 | 27 |
+| Rust | 9,954 | 367 | 1,223 | 27 |
 | Json | 9,358 | 0 | 0 | 7 |
 | TypeScript | 184 | 23 | 15 | 2 |
 | Sh | 155 | 49 | 30 | 4 |
@@ -33,7 +33,7 @@ Total: **20,267** lines of code across **50** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.3` (2026-07-10)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-11-21
 - **Assets in release**: 3
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **20,267** lines of code across **50** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 42 · **Open PRs**: 4 · **Closed issues**: 85 · **Open issues**: 41 · **Commits**: 625
+- **Releases**: 34 · **Merged PRs**: 42 · **Open PRs**: 4 · **Closed issues**: 85 · **Open issues**: 41 · **Commits**: 626
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-09-22 | 0 | 0 | 4 | 0 | 2 | 0 |
-| 90d | 2026-08-23 | 0 | 2 | 4 | 1 | 3 | 0 |
-| last180d | 2026-05-25 | 1 | 4 | 4 | 2 | 5 | 0 |
-| 360d | 2025-11-26 | 1 | 8 | 4 | 3 | 7 | 0 |
-| last720d | 2024-12-01 | 2 | 11 | 4 | 4 | 12 | 23 |
+| 30d | 2026-10-23 | 0 | 0 | 3 | 0 | 1 | 1 |
+| last60d | 2026-09-23 | 0 | 0 | 4 | 0 | 2 | 1 |
+| 90d | 2026-08-24 | 0 | 2 | 4 | 1 | 3 | 4 |
+| last180d | 2026-05-26 | 1 | 4 | 4 | 2 | 5 | 9 |
+| 360d | 2025-11-27 | 1 | 8 | 4 | 3 | 7 | 13 |
+| last720d | 2024-12-02 | 2 | 11 | 4 | 4 | 12 | 24 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for kalker lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:23:57Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:17:06Z._
